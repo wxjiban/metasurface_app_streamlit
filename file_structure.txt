@@ -1,0 +1,55 @@
+/
+    app.py
+    file_structure.txt
+.idea/
+    .name
+    app.iml
+    misc.xml
+    workspace.xml
+    inspectionProfiles/
+        profiles_settings.xml
+        Project_Default.xml
+RCS/
+    mybuildmodel.py
+    mybuildmodel_son1.py
+    post_result.py
+    rcs.py
+    rcs_function.py
+    RCS_topology_demo_func.py
+    data/
+        param_names.csv
+        result-mag11.csv
+        result-mag12.csv
+        result-para.csv
+        result-phase11.csv
+        result-phase12.csv
+        x_coordinates.csv
+    images/
+        display_image.jpg
+    __pycache__/
+        rcs.cpython-312.pyc
+        rcs_function.cpython-312.pyc
+RCS_array/
+    DataManager.py
+    mybuildmodel.py
+    mybuildmodel_son1.py
+    post_result.py
+    RCS_Toroidal_demo_func.py
+    WebPlotter.py
+    data/
+        param_names.csv
+        result-para.csv
+        result-totalmag0.csv
+        result-totalmag1.csv
+        result-totalphase0.csv
+        result-totalphase1.csv
+        selected_unit_data.csv
+        x_coordinates.csv
+    image/
+        combined_image.png
+        para.png
+        unit0.png
+        unit1.png
+    __pycache__/
+        DataManager.cpython-312.pyc
+        WebPlotter.cpython-312.pyc
