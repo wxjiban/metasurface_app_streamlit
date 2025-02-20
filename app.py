@@ -112,6 +112,7 @@ def login():
     with col4:
         st.image("image2.png", width= 250, use_container_width=False)
 
+@st.fragment
 def display_parameters(params_dict):
     """
     显示结构参数。
